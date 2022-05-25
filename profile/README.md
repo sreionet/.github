@@ -12,7 +12,7 @@
 
 ## Service Mesh Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=istio/istio,envoyproxy/envoy,linkerd/linkerd,mosn/layotto,mosn/mosn,apache/apisix&type=Date)](https://star-history.com/#istio/istio&envoyproxy/envoy&linkerd/linkerd&mosn/layotto&mosn/mosn&apache/apisix&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=istio/istio,envoyproxy/envoy,linkerd/linkerd,mosn/layotto,mosn/mosn,apache/apisix,openservicemesh/osm&type=Date)](https://star-history.com/#istio/istio&envoyproxy/envoy&linkerd/linkerd&mosn/layotto&mosn/mosn&apache/apisix&openservicemesh/osm&Date)
 
 ![](https://badgen.net/github/stars/kbsonlong/devops.alongparty.cn)
 ![](https://badgen.net/github/forks/kbsonlong/devops.alongparty.cn)
