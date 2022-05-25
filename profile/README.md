@@ -10,6 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kbsonlong/devops.alongparty.cn&type=Date)](https://star-history.com/#kbsonlong/devops.alongparty.cn&Date)
 
 ![](https://badgen.net/github/stars/kbsonlong/devops.alongparty.cn)
 ![](https://badgen.net/github/forks/kbsonlong/devops.alongparty.cn)
